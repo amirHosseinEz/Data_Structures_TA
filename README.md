@@ -8,3 +8,5 @@ Students should be able to use the data structure they learned in this course to
 
 # Approach
 They need a min-heap for sorting all the restaurants that the user gave us as input. Then when we call the queries, in addition to removing them from the heap and putting the n-called restaurant to a trie-tree, They also need to put them into a stack to protect the order of the algorithm They used.
+
+<img width="2108" alt="Project" src="https://user-images.githubusercontent.com/93030419/215882869-98ca3624-d9df-44c1-9ad0-b8d0353817be.png">
